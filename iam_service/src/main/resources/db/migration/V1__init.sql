@@ -7,4 +7,4 @@ CREATE TABLE posts(
 );
 
 INSERT INTO posts(title, content,created,likes) values ('First post', 'This is first post', CURRENT_TIMESTAMP,10),
-                                                       ('Second post', 'This is second post', CURRENT_TIMESTAMP,3);
+                                                       ('Second post', 'This is scond post', CURRENT_TIMESTAMP,3);
